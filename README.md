@@ -1,0 +1,2 @@
+# Langchain-fundamental-in-model-component-access-data-using-api-keys
+I started my GenAI journey by learning why to use LangChain and understanding foundational models (LLMs). I explored both builder and user perspectives, diving into LangChain's structure and core features. Currently, I'm learning components like language and embedding models, including to access them API keys for OpenAI, Claude, Gemini, and others.
